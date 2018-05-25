@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Sail",
+    "email": "151263555@qq.com"
+  },
+  "name": "node-plc",
+  "version": "0.0.1",
+  "main": "plc.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sail-sail/node-plc.git"
+  },
+  "bugs": "https://github.com/sail-sail/node-plc/issues",
+  "description": "mitsubishi plc",
+  "license": "MIT"
+}
